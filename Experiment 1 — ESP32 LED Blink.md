@@ -1,4 +1,4 @@
-## Experiment 1 — ESP32 LED Blink
+Experiment 1 — ESP32 LED Blink
 
 **Aim:** To write an Arduino program to blink an LED connected to ESP32 GPIO2 at 1 Hz frequency.
 
