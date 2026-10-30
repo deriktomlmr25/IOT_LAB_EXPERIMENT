@@ -1,4 +1,4 @@
-## Experiment 3 — ESP32 LCD Display
+Experiment 3 — ESP32 LCD Display
 
 **Aim:** To interface a 16×2 LCD display (I2C) with ESP32 and display text messages on both lines.
 
