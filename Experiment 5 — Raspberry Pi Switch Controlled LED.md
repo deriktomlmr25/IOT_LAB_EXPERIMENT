@@ -1,4 +1,4 @@
-## Experiment 5 — Raspberry Pi Switch Controlled LED
+Experiment 5 — Raspberry Pi Switch Controlled LED
 
 **Aim:** To interface a push-button switch with Raspberry Pi GPIO and control an LED based on switch input using Python.
 
